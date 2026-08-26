@@ -5,6 +5,7 @@ This repository was created for our GitHub and Jupyter Notebook lab.
 Group Members
 
 Viktoriya Kurmisheva
+
 Abraham Barreto
 
 Project
